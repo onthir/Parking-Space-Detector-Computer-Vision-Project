@@ -1,0 +1,5 @@
+opencv
+pandas
+numpy
+scipy
+sklearn
